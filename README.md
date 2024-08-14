@@ -1,5 +1,4 @@
-# Unearthing Insights 
-## Revolutionizing Soil Image Classification with Advanced CNN Models
+# Unearthing Insights Revolutionizing Soil Image Classification with Advanced CNN Models
 
 #### Dataset
 
