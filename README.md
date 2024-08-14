@@ -1,4 +1,6 @@
-# Soil Types Classification Project
+# Unearthing Insights 
+## Revolutionizing Soil Image Classification with Advanced CNN Models
+
 #### Dataset
 
 The Soil Types Dataset is a collection of images focused on different types of soil, consisting of six folders, each representing a distinct soil type. The dataset includes a total of 144 labeled photos, showcasing the diversity of soils in this collection. This dataset is designed to aid in soil classification and analysis tasks, providing valuable visual information for research, machine learning, and data analysis purposes. Each folder within the dataset represents a specific soil type, enabling researchers and practitioners to study and differentiate between various soil characteristics and properties.
